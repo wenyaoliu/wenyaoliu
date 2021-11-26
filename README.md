@@ -3,7 +3,9 @@
 Traing myself to an expert in Civil, a learner in CS and a lover of Leo ✨
 
 1. View my academic website in [English](https://wenyaoliu.github.io/) or [中文学术网站](https://wenyaoliu.github.io/cn).
-2. Visit my blog in [English](https://wenyaoliu.github.io/blog) or [中文博客](https://wenyaoliu.github.io/cnblog).
+2. Visit my blog in [English](https://wenyaoliu.github.io/blog) 
+<!-- or [中文博客](https://wenyaoliu.github.io/cnblog).-->
+
 
 <!--
 **wenyaoliu/wenyaoliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
