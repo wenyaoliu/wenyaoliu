@@ -1,9 +1,10 @@
-### Welcome to my Github 👋
+### Welcome to my Github 👋🖐
 
 As a dedicated researcher, problem solver, data enthusiast, and amateur cook, I am experienced in improving decision making by analyzing data, majoring in but not limited to engineering. Here is my secret about the wisdom of life —
+
  <p><center><strong>View the future and get prepared.</strong></center></p>
 
-Wanna know more about me? Visit my personal website in [English](https://www.wenyaoliu.com) or [Chinese 中文学术网站](https://wenyaoliu.gitee.io/cn).
+More about me? Visit my personal website in [English](https://www.wenyaoliu.com) or [Chinese 中文学术网站](https://wenyaoliu.gitee.io/cn).
 <!-- Visit my blog in [English](https://wenyaoliu.github.io/blog). Chinese blog will be set up soon ~~~-->
 <!-- or [中文博客](https://wenyaoliu.github.io/cnblog).-->
 
