@@ -1,16 +1,16 @@
-### Welcome to my Github 👋🖐
+<h3>Welcome to the Github of Wenyao Liu 👋🖐</h3> 
 
-As a dedicated researcher, problem solver, data enthusiast, and amateur cook, I am experienced in improving decision making by analyzing data, majoring in but not limited to engineering. Recently I am learning by showing in my blog [Leo Code](https://www.wenyaoliu.com/blog)
+As a dedicated researcher, problem solver, data enthusiast, and amateur cook, I am experienced in improving decision making by analyzing data, majoring in but not limited to engineering. Here is my secret about the wisdom of life — 
 
 
 <p align="center"> Here is my secret about the wisdom of life — </p>
- 
+
 <p align="center"><strong>View the future and get prepared.</strong></p>
 
 <p align="center"> More about me? </p>
 
-<p align="center"> Visit my blog <a href="https://www.wenyaoliu.com/blog" target="_blank">Leo Code</a>!</p>
-Visit my personal website in [English](https://www.wenyaoliu.com) or [Chinese 中文](https://wenyaoliu.gitee.io/cn). 
+<p align="center"> Visit  my <a href="https://www.wenyaoliu.com/blog" target="_blank">blog Leo Code</a>and homepage in <a href="https://www.wenyaoliu.com" target="_blank">English</a> or! <a href="https://wenyaoliu.gitee.io/cn" target="_blank">Chinese 中文</a></p>
+
 <!-- Visit my blog in [English](https://wenyaoliu.github.io/blog). Chinese blog will be set up soon ~~~-->
 <!-- or [中文博客](https://wenyaoliu.github.io/cnblog).-->
 
