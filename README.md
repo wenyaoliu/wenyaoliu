@@ -9,7 +9,7 @@ As a dedicated researcher, problem solver, data enthusiast, and amateur cook, I 
 
 <p align="center"> More about me? </p>
 
-<p align="center"> Visit my blog [Leo Code](https://www.wenyaoliu.com/blog)</p>
+<p align="center"> Visit my blog <a href="https://www.wenyaoliu.com/blog" target="_blank">Leo Code</a>!</p>
 Visit my personal website in [English](https://www.wenyaoliu.com) or [Chinese 中文](https://wenyaoliu.gitee.io/cn). 
 <!-- Visit my blog in [English](https://wenyaoliu.github.io/blog). Chinese blog will be set up soon ~~~-->
 <!-- or [中文博客](https://wenyaoliu.github.io/cnblog).-->
