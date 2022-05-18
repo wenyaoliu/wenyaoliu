@@ -4,7 +4,7 @@ As a dedicated researcher, problem solver, data enthusiast, and amateur cook, I 
 
 Here is my secret about the wisdom of life —
 
- <p align="center"><center><strong>View the future and get prepared.</strong></center></p>
+ <p align="center"><strong>View the future and get prepared.</strong></p>
 
 More about me? Visit my personal website in [English](https://www.wenyaoliu.com) or [Chinese 中文](https://wenyaoliu.gitee.io/cn). 
 <!-- Visit my blog in [English](https://wenyaoliu.github.io/blog). Chinese blog will be set up soon ~~~-->
