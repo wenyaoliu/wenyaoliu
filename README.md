@@ -6,7 +6,7 @@ As a dedicated researcher, problem solver, data enthusiast, and amateur cook, I 
 
 <p align="center"> More about me? </p>
 
-<p align="center"> Visit  my <a href="https://www.wenyaoliu.com/blog" target="_blank">blog Leo Code</a>and homepage in <a href="https://www.wenyaoliu.com" target="_blank">English</a> or! <a href="https://wenyaoliu.gitee.io/cn" target="_blank">Chinese 中文</a></p>
+<p align="center"> Visit  my blog <a href="https://www.wenyaoliu.com/blog" target="_blank">Leo Code</a> and homepage in <a href="https://www.wenyaoliu.com" target="_blank">English</a> or! <a href="https://wenyaoliu.gitee.io/cn" target="_blank">Chinese 中文</a></p>
 
 <!-- Visit my blog in [English](https://wenyaoliu.github.io/blog). Chinese blog will be set up soon ~~~-->
 <!-- or [中文博客](https://wenyaoliu.github.io/cnblog).-->
