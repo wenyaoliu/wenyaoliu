@@ -10,7 +10,7 @@ More about me? Visit my personal website in [English](https://www.wenyaoliu.com)
 <!-- Visit my blog in [English](https://wenyaoliu.github.io/blog). Chinese blog will be set up soon ~~~-->
 <!-- or [中文博客](https://wenyaoliu.github.io/cnblog).-->
 
-<p align="right">text</p>
+<p align="center">text</p>
 <!--
 **wenyaoliu/wenyaoliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
