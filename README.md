@@ -1,9 +1,6 @@
-<h3>Welcome to the Github of Wenyao Liu 👋🖐</h3> 
+<h3 align="center">Welcome to the Github of Wenyao Liu 👋🖐</h3> 
 
 As a dedicated researcher, problem solver, data enthusiast, and amateur cook, I am experienced in improving decision making by analyzing data, majoring in but not limited to engineering. Here is my secret about the wisdom of life — 
-
-
-<p align="center"> Here is my secret about the wisdom of life — </p>
 
 <p align="center"><strong>View the future and get prepared.</strong></p>
 
